@@ -1,2 +1,2 @@
 # SpideymenSongFinder
-This webapp lists your top x songs in a rough time period (~1yr, ~6mo, or ~4wk).
+This webapp lists your top 10 songs over the course of a month and a year!
